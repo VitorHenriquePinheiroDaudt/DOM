@@ -1,0 +1,19 @@
+/* Atividade 1 */
+ 
+div {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+ 
+#vitorum {
+    background-color: pink;
+}
+ 
+#vitordois {
+    background-color: brown;
+}
+ 
+#vitortres {
+    background-color: purple;
+}
